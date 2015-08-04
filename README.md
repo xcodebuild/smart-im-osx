@@ -1,3 +1,4 @@
+![gpl](http://img.shields.io/:license-gpl-blue.svg)
 # What is this?
 
 Smart-im-osx is a emacs plugin to make your input method on Mac smarter.
