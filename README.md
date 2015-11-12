@@ -1,4 +1,8 @@
 ![gpl](http://img.shields.io/:license-gpl-blue.svg)
+# NOT MAINTAINED
+
+Move to: [https://github.com/CodeFalling/fcitx-remote-for-osx](https://github.com/CodeFalling/fcitx-remote-for-osx)
+
 # What is this?
 
 Smart-im-osx is a emacs plugin to make your input method on Mac smarter.
